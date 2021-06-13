@@ -1,0 +1,7 @@
+.diece-face{
+    height: 200px;
+    width: 200px;
+    margin: 15px;
+    background-color: red;
+    border-radius: 10px;
+}
